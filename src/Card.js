@@ -3,7 +3,7 @@ import axios from "axios"
 
 
 
-function Card({url}) {
+function Card({url, remaining}) {
 
     
 
