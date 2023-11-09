@@ -19,7 +19,7 @@ function Card({url}) {
     // }, []);
 
     return (
-      <div className="CardDeck">
+      <div className="Card">
         <img src={url}/>
         </div>
     );
